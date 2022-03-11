@@ -6,7 +6,7 @@ namespace LearningGIT
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! grarte");
+            Console.WriteLine("loving you is greatm");
         }
     }
 }
